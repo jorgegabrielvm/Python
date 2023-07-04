@@ -2,7 +2,7 @@
 
 Python projects for Data Analysis and general
 
-Each folder contains a python project
+Each folder contains a Python project
 
 ## 1. Collecting_Jobs_data_Using_API-Questions
 Collecting data, editing it through dataframes and saving the results to excel
@@ -11,4 +11,4 @@ Collecting data, editing it through dataframes and saving the results to excel
 Basic Data Science Project
 
 ## 3. US Domestic Airline Flights Performance
-Data Visualization project
+Data Visualization project with Python
