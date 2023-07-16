@@ -1,0 +1,8 @@
+import urllib.request
+
+url = 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/data/apple.json'
+
+filename = 'apple.json'
+urllib.request.urlretrieve(url, filename)
+print('GeoJSON file downloaded!')
+apple_json = r'apple.json' # geojson file
