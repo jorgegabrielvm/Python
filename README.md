@@ -11,7 +11,7 @@ Data Analysis about Big Data jobs offerings
 Collecting data through APIs, editing it with Dataframes and saving the results to Excel
 
 ## 3. [House Sales in King County, USA](https://github.com/jorgegabrielvm/Python/tree/main/House%20Sales%20in%20King%20County%2C%20USA)
-Basic Data Science Project
+Basic Data Science Project | Data Wrangling | Exploratory Data Analysis | Model Development | Model Evaluation and Refinement
 
 ## 4. [US Domestic Airline Flights Performance](https://github.com/jorgegabrielvm/Python/tree/main/US%20Domestic%20Airline%20Flights%20Performance)
 Data Visualization project with Python
