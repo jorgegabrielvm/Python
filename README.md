@@ -8,7 +8,7 @@ Each folder contains a Python project
 Data Analysis about Big Data jobs offerings | Numpy | Pandas | Matplotlib
 
 ## 2. [Collecting_Jobs_data_Using_API-Questions](https://github.com/jorgegabrielvm/Python/tree/main/Collecting_Jobs_data_Using_API-Questions)
-Collecting data through APIs, editing it with dataframes and saving the results to Excel
+Collecting data through APIs, editing it with dataframes and saving it to Excel
 
 ## 3. [House Sales in King County, USA](https://github.com/jorgegabrielvm/Python/tree/main/House%20Sales%20in%20King%20County%2C%20USA)
 Basic Data Science Project | Data Wrangling | Exploratory Data Analysis | Model Development | Model Evaluation and Refinement
