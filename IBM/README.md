@@ -7,5 +7,5 @@ Basic Data Science Project | Data Wrangling | Exploratory Data Analysis | Model 
 ## - [US Domestic Airline Flights Performance](https://github.com/jorgegabrielvm/Python/tree/main/IBM/US%20Domestic%20Airline%20Flights%20Performance)
 Data Visualization project with Python
 
-## - [https://github.com/jorgegabrielvm/Python/tree/main/IBM/Web%20Scrapping)
+## - [Web Scrapping](https://github.com/jorgegabrielvm/Python/tree/main/IBM/Web%20Scrapping)
 Web scrapping exercises with BeautifulSoup, Pandas and Request
