@@ -8,4 +8,4 @@ Each folder contains a Python project
 Data Analysis about Big Data jobs offerings | Numpy | Pandas | Matplotlib
 
 ## [IBM](https://github.com/jorgegabrielvm/Python/tree/main/IBM)
-IBM Exercices
+IBM Certification Exercices
