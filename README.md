@@ -8,4 +8,7 @@ Each folder contains a Python project
 Data Analysis about Big Data jobs offerings | Numpy | Pandas | Matplotlib
 
 ## [IBM](https://github.com/jorgegabrielvm/Python/tree/main/IBM)
-IBM Data Analyst Certification Exercices
+IBM Data Analyst Certification Projects
+
+## [Google](https://github.com/jorgegabrielvm/Python/tree/main/Google)
+Google Advanced Data Analytics Projects
