@@ -1,6 +1,6 @@
 # Python
 
-Python projects for Data Analysis and general
+Python projects for AI and Data Analysis in general
 
 Each folder contains a Python project
 
