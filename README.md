@@ -4,6 +4,9 @@ Python projects for AI and Data Analysis in general
 
 Each folder contains a Python project
 
+## ★ [SDA-ChatGPT](https://github.com/jorgegabrielvm/Python/tree/main/SDA-GPT)
+Seventh Day Adventist Chat Bot
+
 ## ★ [BigDataJobs](https://github.com/jorgegabrielvm/Python/tree/main/BigDataJobs)
 Data Analysis about Big Data jobs offerings | Numpy | Pandas | Matplotlib
 
