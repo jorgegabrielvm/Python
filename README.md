@@ -16,4 +16,4 @@ Data Analysis about Big Data jobs offerings | Numpy | Pandas | Matplotlib
 - ### [Google Advanced Data Analytics](https://github.com/jorgegabrielvm/Python/tree/main/Google)
 
 ## Machine Learning Algorithms
-- ### [DecisionTree](https://1drv.ms/x/s!Av8oObyC6ppBg10051O-6Opx_xer?e=0T0j0I)
+- ### [DecisionTree](https://github.com/jorgegabrielvm/Python/tree/main/ML/DecisionTree)
