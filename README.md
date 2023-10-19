@@ -11,7 +11,7 @@ Seventh Day Adventist Chat Bot
 Data Analysis about Big Data jobs offerings | Numpy | Pandas | Matplotlib
 
 ## Certification Projects
-- ### [IBM Data Analyst Certification](https://github.com/jorgegabrielvm/Python/tree/main/IBM)
+- ### [IBM Data Analyst](https://github.com/jorgegabrielvm/Python/tree/main/IBM)
 
 - ### [Google Advanced Data Analytics](https://github.com/jorgegabrielvm/Python/tree/main/Google)
 
