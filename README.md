@@ -15,3 +15,6 @@ IBM Data Analyst Certification Projects
 
 ## [Google](https://github.com/jorgegabrielvm/Python/tree/main/Google)
 Google Advanced Data Analytics Projects
+
+## Machine Learning Algorithms
+- ### [DecisionTree](https://1drv.ms/x/s!Av8oObyC6ppBg10051O-6Opx_xer?e=0T0j0I)
