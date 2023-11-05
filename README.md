@@ -20,3 +20,4 @@ Data Analysis about The Big Data jobs offerings
 
 ## Machine Learning Algorithms
 - ### [DecisionTree](https://github.com/jorgegabrielvm/Python/tree/main/ML/DecisionTree)
+- ### [XGBoost](https://github.com/jorgegabrielvm/Python/tree/main/ML/XGBoost)
