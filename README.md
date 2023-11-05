@@ -7,17 +7,17 @@ Each folder contains a Python project
 ## ★ [SDA-GPT](https://github.com/jorgegabrielvm/Python/tree/main/SDA-GPT)
 Seventh Day Adventist Chat Bot
 
-## [90s Housing Market](https://github.com/jorgegabrielvm/Python/tree/main/90s%20Housing%20Market)
-Data Science project about California's nineties housing market
+## Data Analysis
+- ### [BigDataJobs](https://github.com/jorgegabrielvm/Python/tree/main/BigDataJobs)
 
-## [BigDataJobs](https://github.com/jorgegabrielvm/Python/tree/main/BigDataJobs)
-Data Analysis about The Big Data jobs offerings
+## Data Science
+- ### [90s Housing Market](https://github.com/jorgegabrielvm/Python/tree/main/90s%20Housing%20Market)
+
+## Machine Learning
+- ### [DecisionTree](https://github.com/jorgegabrielvm/Python/tree/main/ML/DecisionTree)
+- ### [XGBoost](https://github.com/jorgegabrielvm/Python/tree/main/ML/XGBoost)
 
 ## Certification Projects
 - ### [IBM Data Analyst](https://github.com/jorgegabrielvm/Python/tree/main/IBM)
 
 - ### [Google Advanced Data Analytics](https://github.com/jorgegabrielvm/Python/tree/main/Google)
-
-## Machine Learning Algorithms
-- ### [DecisionTree](https://github.com/jorgegabrielvm/Python/tree/main/ML/DecisionTree)
-- ### [XGBoost](https://github.com/jorgegabrielvm/Python/tree/main/ML/XGBoost)
