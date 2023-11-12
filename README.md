@@ -11,6 +11,7 @@ Seventh Day Adventist Chat Bot
 - ### [BigDataJobs](https://github.com/jorgegabrielvm/Python/tree/main/BigDataJobs)
 
 # Data Science
+- ### [BigDataJobs 2.0](https://github.com/jorgegabrielvm/Python/tree/main/BigDataJobs2)
 - ### [90s Housing Market](https://github.com/jorgegabrielvm/Python/tree/main/90s%20Housing%20Market)
 
 # Machine Learning
