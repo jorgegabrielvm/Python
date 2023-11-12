@@ -4,7 +4,7 @@
 Collecting data through APIs, editing it with dataframes and saving it to Excel
 
 ## - [House Sales in King County, USA](https://github.com/jorgegabrielvm/Python/tree/main/IBM/House%20Sales%20in%20King%20County%2C%20USA)
-Basic Data Science Project | Data Wrangling | Exploratory Data Analysis | Model Development | Model Evaluation and Refinement
+Basic Machine Learning Project | Data Wrangling | Exploratory Data Analysis | Model Development | Model Evaluation and Refinement
 
 ## - [US Domestic Airline Flights Performance](https://github.com/jorgegabrielvm/Python/tree/main/IBM/US%20Domestic%20Airline%20Flights%20Performance)
 Data Visualization project with Python
