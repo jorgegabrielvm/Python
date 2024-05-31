@@ -7,7 +7,7 @@ Python projects for AI and Data Analysis in general
 - ### [Has the crypto bull market started?](https://github.com/jorgegabrielvm/Python/tree/main/ML/LSTM)
 - ### [DecisionTree](https://github.com/jorgegabrielvm/Python/tree/main/ML/DecisionTree)
 - ### [XGBoost](https://github.com/jorgegabrielvm/Python/tree/main/ML/XGBoost)
-- ### [Tik-Tok Project](https://github.com/jorgegabrielvm/Python/tree/main/Google/Tik-Tok%20project)
+- ### [Tik-Tok](https://github.com/jorgegabrielvm/Python/tree/main/Google/Tik-Tok%20project)
 
 # Data Analysis
 - ### [BigDataJobs](https://github.com/jorgegabrielvm/Python/tree/main/BigDataJobs)
