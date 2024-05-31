@@ -8,6 +8,7 @@ Python projects for AI and Data Analysis in general
 - ### [DecisionTree](https://github.com/jorgegabrielvm/Python/tree/main/ML/DecisionTree)
 - ### [XGBoost](https://github.com/jorgegabrielvm/Python/tree/main/ML/XGBoost)
 - ### [Tik-Tok](https://github.com/jorgegabrielvm/Python/tree/main/Google/Tik-Tok%20project)
+- ### [House Sales](https://github.com/jorgegabrielvm/Python/tree/main/IBM/House%20Sales%20in%20King%20County%2C%20USA)
 
 # Data Analysis
 - ### [BigDataJobs](https://github.com/jorgegabrielvm/Python/tree/main/BigDataJobs)
