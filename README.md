@@ -5,7 +5,7 @@ Python projects for AI and Data Analysis in general
 # AI Engineering
 - ### [SDA-GPT](https://github.com/jorgegabrielvm/Python/tree/main/SDA-GPT)
 - ### [Church Analytics](https://github.com/jorgegabrielvm/Python/tree/main/Church%20Analytics)
-  Data Science | Linerar Regression | Random Forest Regressor | Gradient Boost Regressor | SVR | Neural Network | LightGBM Regressor | Sequential | Decission Tree 
+  Linerar Regression | Random Forest Regressor | Gradient Boost Regressor | SVR | Neural Network | LightGBM Regressor | Sequential | Decission Tree 
 - ### [Has the crypto bull market started?](https://github.com/jorgegabrielvm/Python/tree/main/ML/LSTM)
 - ### [DecisionTree](https://github.com/jorgegabrielvm/Python/tree/main/ML/DecisionTree)
 - ### [XGBoost](https://github.com/jorgegabrielvm/Python/tree/main/ML/XGBoost)
