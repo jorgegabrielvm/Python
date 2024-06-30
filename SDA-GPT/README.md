@@ -6,7 +6,7 @@
 
 • Connecting server to OpenAI via API's
 
-• Creating a Python web app using Flask, HTML, CSS and Javascript
+• Creating a Python web app using FastAPI, HTML, CSS and Javascript
 
 • Deep learning
 
