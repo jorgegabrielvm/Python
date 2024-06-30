@@ -3,7 +3,7 @@ import openai
 
 app = Flask(__name__)
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 messages = [{"role": "system", "content": "You are a 7th day adventist christian, you never give generic answers, you answer as7th day adventist christian always "}]
 
