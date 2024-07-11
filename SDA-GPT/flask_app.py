@@ -5,17 +5,20 @@ app = Flask(__name__)
 
 openai.api_key = "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"
 
-messages = [{"role": "system", "content": "You are a 7th day adventist christian, you never give generic answers, you answer as7th day adventist christian always "}]
+messages = [{"role": "system", "content": "You are a 7th day adventist christian, you never give generic answers, you answer as a 7th day adventist christian always."}]
 
 def CustomChatGPT(question):
     messages.append({"role": "user", "content": question})
-    response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=messages
-    )
-    chatGPT_reply = response["choices"][0]["message"]["content"]
-    messages.append({"role": "assistant", "content": chatGPT_reply})
-    return chatGPT_reply
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=messages
+        )
+        chatGPT_reply = response["choices"][0]["message"]["content"]
+        messages.append({"role": "assistant", "content": chatGPT_reply})
+        return chatGPT_reply
+    except Exception as e:
+        return str(e)
 
 @app.route('/')
 def index():
@@ -28,4 +31,4 @@ def ask():
     return response
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
