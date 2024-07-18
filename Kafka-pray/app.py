@@ -159,11 +159,8 @@ def get_requests():
 def view_requests():
     return render_template('requests.html')
 
+# Start the consumer thread when this script is run directly
 if __name__ == '__main__':
-    # Start the consumer thread
     consumer_thread = threading.Thread(target=consume_messages)
     consumer_thread.daemon = True
     consumer_thread.start()
-    
-    # Run the Flask app
-    app.run(debug=True)
