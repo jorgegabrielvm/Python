@@ -6,10 +6,8 @@ import boto3
 from botocore.exceptions import NoCredentialsError, PartialCredentialsError, ClientError
 import os
 from datetime import datetime
-from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app)
 
 # Kafka broker address
 broker = '13.60.162.175:9092'
@@ -36,8 +34,8 @@ consumer_conf = {
 # S3 configuration
 s3_bucket_name = 'kafka-kafkapray'
 s3_client = boto3.client('s3',
-                         aws_access_key_id=os.environ.get('AKIAQ3EGV2S57USGRECZ'),
-                         aws_secret_access_key=os.environ.get('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'))
+                         aws_access_key_id=os.environ.get('AWS_ACCESS_KEY_ID'),
+                         aws_secret_access_key=os.environ.get('AWS_SECRET_ACCESS_KEY'))
 
 # Create instance of Producer
 producer = Producer(producer_conf)
@@ -161,8 +159,11 @@ def get_requests():
 def view_requests():
     return render_template('requests.html')
 
-# Start the consumer thread when this script is run directly
 if __name__ == '__main__':
+    # Start the consumer thread
     consumer_thread = threading.Thread(target=consume_messages)
     consumer_thread.daemon = True
     consumer_thread.start()
+    
+    # Run the Flask app
+    app.run(debug=True)
