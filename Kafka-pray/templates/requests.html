@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prayer Requests</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #1e90ff;
+        }
+        .request {
+            border-bottom: 1px solid #ddd;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Prayer Requests</h2>
+        <div id="requests"></div>
+    </div>
+    <script>
+        async function fetchRequests() {
+            try {
+                const response = await fetch('/api/requests');
+                const data = await response.json();
+                
+                // Reverse the order of data array (newer requests on top)
+                data.reverse();
+
+                const requestsDiv = document.getElementById('requests');
+                requestsDiv.innerHTML = '';
+                data.forEach(request => {
+                    const requestDiv = document.createElement('div');
+                    requestDiv.classList.add('request');
+                    requestDiv.innerHTML = `
+                        <p><strong>Name:</strong> ${request.name}</p>
+                        <p><strong>Prayer Request:</strong> ${request.prayer_request}</p>
+                    `;
+                    requestsDiv.appendChild(requestDiv);
+                });
+            } catch (error) {
+                console.error('Failed to fetch requests:', error);
+            }
+        }
+
+        // Function to refresh every 2 seconds
+        function autoRefresh() {
+            fetchRequests();
+            setTimeout(autoRefresh, 2000); // 2000 milliseconds = 2 seconds
+        }
+
+        autoRefresh(); // Initial call to start auto-refresh
+    </script>
+</body>
+</html>
+
