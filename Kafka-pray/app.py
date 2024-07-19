@@ -143,4 +143,5 @@ if __name__ == '__main__':
     consumer_thread.daemon = True
     consumer_thread.start()
 
-    app.run(host='0.0.0.0', port=80)
+    app.run(host='0.0.0.0', port=80, debug=True)
+
