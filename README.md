@@ -2,6 +2,10 @@
 
 Python projects for AI and Data Analysis in general
 
+# Cloud Engineering
+- ### [Kafka-Pray](https://github.com/jorgegabrielvm/Python/tree/main/Kafka-pray)
+  AWS | Kafka | S3 | 
+
 # AI Engineering
 - ### [SDA-GPT](https://github.com/jorgegabrielvm/Python/tree/main/SDA-GPT)
   AWS | Python | NLP
