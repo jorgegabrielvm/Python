@@ -4,11 +4,11 @@ Python projects for AI and Data Analysis in general
 
 # Cloud Engineering
 - ### [Kafka-Pray](https://github.com/jorgegabrielvm/Python/tree/main/Kafka-pray)
-  AWS | Kafka | S3 | 
-
-# AI Engineering
+  AWS | Kafka | S3 
 - ### [SDA-GPT](https://github.com/jorgegabrielvm/Python/tree/main/SDA-GPT)
   AWS | Python | NLP
+
+# AI Engineering
 - ### [Church Analytics](https://github.com/jorgegabrielvm/Python/tree/main/Church%20Analytics)
   Linerar Regression | Random Forest Regressor | Gradient Boost Regressor | SVR | Neural Network | LightGBM Regressor | Sequential | Decission Tree 
 - ### [Has the crypto bull market started?](https://github.com/jorgegabrielvm/Python/tree/main/ML/LSTM)
