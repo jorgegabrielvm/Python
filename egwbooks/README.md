@@ -6,17 +6,15 @@ This project showcases a comprehensive approach to building an end to end "Full 
 
 The notebooks further demonstrate my ability to extract actionable insights from data and develop predictive models to guide business decisions. This project not only highlights my technical skills but also my ability to solve real-world problems using a combination of technologies.
 
-- Technologies Used:
+## Technologies Used:
 
-Web Development: Flask, HTML/CSS, JavaScript
+- Web Development: Flask, HTML/CSS, JavaScript
 
-Containerization: Docker, Docker Compose
+- Containerization: Docker, Docker Compose
 
-Database: SQLite, SQLAlchemy
-
-Data Analysis: Pandas, Matplotlib, Seaborn, Jupyter Notebook
-
-Data Science: Scikit-Learn, Statsmodels
+- Database: SQLite, SQLAlchemy
+- Data Analysis: Pandas, Matplotlib, Seaborn, Jupyter Notebook
+- Data Science: Scikit-Learn, Statsmodels
 
 Machine Learning: Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, Cosine Similarity.
 
