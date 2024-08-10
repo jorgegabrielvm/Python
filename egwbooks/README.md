@@ -4,7 +4,7 @@
 
 In this project, I developed a comprehensive web application for an Ellen G. White (EGW) bookstore.
 
-This project showcases a comprehensive approach to building an end to end "Full Stack Data Science" aplication. I successfully integrated web scraping, database management, web development, Docker, data analysis, machine learning, business insights and ETL processes into a single complex project.
+This showcases a comprehensive approach to building an end to end "Full Stack Data Science" aplication. I successfully integrated web scraping, database management, web development, Docker, data analysis, machine learning, business insights and ETL processes into a single complex project.
 
 After project notebooks further demonstrate my ability to extract actionable insights from data and develop predictive models to guide business decisions. This project not only highlights my technical skills but also my ability to solve real-world problems using a combination of technologies.
 
