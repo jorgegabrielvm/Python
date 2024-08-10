@@ -22,7 +22,7 @@ After project notebooks further demonstrate my ability to extract actionable ins
 
 ## 1. Web Scraping and Data Collection
 
-I started the project by scraping data from [egw official website](https://m.egwwritings.org/es) to gather information about Ellen G. White (EGW) books. I used Python’s BeautifulSoup and Requests libraries to extract data such as book titles, descriptions, prices, and more.
+I started the project by scraping data from [EGW official website](https://m.egwwritings.org/es) to gather information about Ellen G. White (EGW) books. I used Python’s BeautifulSoup and Requests libraries to extract data such as book titles, descriptions, prices, and more.
 
 ### Technologies: Python, BeautifulSoup, Requests
 
