@@ -95,7 +95,6 @@ To further enhance the insights, I delved into data science and machine learning
 - Feature Engineering: I created a synthetic dataset based on real-world data from Facebook Ads, including variables like budgets, cost per impression, cost per click, conversion rates, impressions, clicks, sales, and revenue. This dataset was crucial for training machine learning models.
 
 - Model Development: I developed and trained five different models to predict revenue from marketing campaigns:
-
 Linear Regression | Decision Tree Regressor | Random Forest Regressor | Gradient Boosting Regressor | Support Vector Regressor
 
 - Model Evaluation: After evaluating all models, the Linear Regression model provided the most accurate predictions. The model predicted that an investment of $299 would generate a revenue of $194.58, indicating a potential loss.
