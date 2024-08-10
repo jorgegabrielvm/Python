@@ -3,7 +3,7 @@
 Python projects for AI and Data Analysis in general
 
 # "Full Stack Data Science"
-- ### [egwbooks](https://github.com/jorgegabrielvm/Python/tree/main/egwbooks)
+- ### [Egwbooks](https://github.com/jorgegabrielvm/Python/tree/main/egwbooks)
   Cloud Engineering | Machine Learning Engineering | Data Science | Data Analysis
 
 # Cloud Engineering
