@@ -66,13 +66,19 @@ I implemented an ETL pipeline using Apache Airflow to automate the extraction, t
 
 ### Technologies: Apache Airflow, SQLite, Python
 
-## 6. AWS S3 Integration
+## 6. Machine Learning for Promotions (Cosine Similarity)
+
+- Promotions Engine: Implemented a recommendation engine using Cosine Similarity to suggest promotions to users based on their previous purchases and browsing history. This personalized the user experience and helped increase sales.
+
+### Technologies: Python, Scikit-Learn, Cosine Similarity Algorithm
+
+## 7. Cloud Integration with AWS S3
 
 I uploaded the extracted data to an AWS S3 bucket for cloud storage. For this purpose, I used an AWS Identity and Access Management (IAM) user with the necessary permissions to access S3.
 
 ### Technologies: AWS S3, IAM, Python, Boto3
 
-## 7. Data Analysis (Jupyter Notebook)
+## 8. Data Analysis (Jupyter Notebook)
 
 I conducted an in-depth exploratory data analysis (EDA) to extract insights from the sales data. Here’s what I did:
 
@@ -88,7 +94,7 @@ I conducted an in-depth exploratory data analysis (EDA) to extract insights from
 
 ### Technologies: Jupyter Notebook, Pandas, Matplotlib, Seaborn, KMeans (for clustering)
 
-## 8. Data Science and Machine Learning (Jupyter Notebook)
+## 9. Data Science and Machine Learning (Jupyter Notebook)
 
 To further enhance the insights, I delved into data science and machine learning. Here’s how:
 
