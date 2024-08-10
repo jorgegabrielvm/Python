@@ -1,0 +1,32 @@
+[2024-08-04T11:05:14.205+0000] {processor.py:161} INFO - Started process (PID=52) to work on /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:05:14.210+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/export_orders_dag.py for tasks to queue
+[2024-08-04T11:05:14.215+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:14.213+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:05:16.084+0000] {processor.py:840} INFO - DAG(s) 'export_multiple_dbs_dag' retrieved from /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:05:16.233+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:16.232+0000] {override.py:1858} INFO - Created Permission View: can read on DAG:export_multiple_dbs_dag
+[2024-08-04T11:05:16.246+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:16.246+0000] {override.py:1858} INFO - Created Permission View: can edit on DAG:export_multiple_dbs_dag
+[2024-08-04T11:05:16.254+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:16.254+0000] {override.py:1858} INFO - Created Permission View: can delete on DAG:export_multiple_dbs_dag
+[2024-08-04T11:05:16.255+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:16.255+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T11:05:16.270+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:16.270+0000] {dag.py:3111} INFO - Creating ORM DAG for export_multiple_dbs_dag
+[2024-08-04T11:05:16.283+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:16.283+0000] {dag.py:3947} INFO - Setting next_dagrun for export_multiple_dbs_dag to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T11:05:16.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/export_orders_dag.py took 2.112 seconds
+[2024-08-04T11:05:47.153+0000] {processor.py:161} INFO - Started process (PID=123) to work on /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:05:47.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/export_orders_dag.py for tasks to queue
+[2024-08-04T11:05:47.157+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:47.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:05:47.597+0000] {processor.py:840} INFO - DAG(s) 'export_multiple_dbs_dag' retrieved from /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:05:47.613+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:47.613+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T11:05:47.633+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:05:47.633+0000] {dag.py:3947} INFO - Setting next_dagrun for export_multiple_dbs_dag to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T11:05:47.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/export_orders_dag.py took 0.505 seconds
+[2024-08-04T11:06:17.759+0000] {processor.py:161} INFO - Started process (PID=186) to work on /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:06:17.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/export_orders_dag.py for tasks to queue
+[2024-08-04T11:06:17.763+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:06:17.762+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:06:18.401+0000] {processor.py:840} INFO - DAG(s) 'export_multiple_dbs_dag' retrieved from /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:06:18.420+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:06:18.419+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T11:06:18.442+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:06:18.442+0000] {dag.py:3947} INFO - Setting next_dagrun for export_multiple_dbs_dag to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T11:06:18.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/export_orders_dag.py took 0.712 seconds
+[2024-08-04T11:06:48.979+0000] {processor.py:161} INFO - Started process (PID=246) to work on /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:06:48.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/export_orders_dag.py for tasks to queue
+[2024-08-04T11:06:48.982+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:06:48.982+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:06:49.420+0000] {processor.py:840} INFO - DAG(s) 'export_multiple_dbs_dag' retrieved from /opt/airflow/dags/export_orders_dag.py
+[2024-08-04T11:06:49.436+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:06:49.435+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2024-08-04T11:06:49.454+0000] {logging_mixin.py:188} INFO - [2024-08-04T11:06:49.454+0000] {dag.py:3947} INFO - Setting next_dagrun for export_multiple_dbs_dag to 2024-08-03 00:00:00+00:00, run_after=2024-08-04 00:00:00+00:00
+[2024-08-04T11:06:49.475+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/export_orders_dag.py took 0.501 seconds
