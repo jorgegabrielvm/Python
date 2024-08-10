@@ -96,15 +96,7 @@ To further enhance the insights, I delved into data science and machine learning
 
 - Model Development: I developed and trained five different models to predict revenue from marketing campaigns:
 
-Linear Regression
-
-Decision Tree Regressor
-
-Random Forest Regressor
-
-Gradient Boosting Regressor
-
-Support Vector Regressor
+Linear Regression | Decision Tree Regressor | Random Forest Regressor | Gradient Boosting Regressor | Support Vector Regressor
 
 - Model Evaluation: After evaluating all models, the Linear Regression model provided the most accurate predictions. The model predicted that an investment of $299 would generate a revenue of $194.58, indicating a potential loss.
 
