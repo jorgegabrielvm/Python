@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, I developed a comprehensive web application for an Ellen G. White (EGW) bookstore
+In this project, I developed a comprehensive web application for an Ellen G. White (EGW) bookstore.
 
 This project showcases a comprehensive approach to building an end to end "Full Stack Data Science" aplication. I successfully integrated web scraping, database management, web development, Docker, data analysis, machine learning, business insights and ETL processes into a single complex project.
 
