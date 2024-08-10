@@ -9,20 +9,14 @@ The notebooks further demonstrate my ability to extract actionable insights from
 ## Technologies Used:
 
 - Web Development: Flask, HTML/CSS, JavaScript
-
 - Containerization: Docker, Docker Compose
-
 - Database: SQLite, SQLAlchemy
 - Data Analysis: Pandas, Matplotlib, Seaborn, Jupyter Notebook
 - Data Science: Scikit-Learn, Statsmodels
-
-Machine Learning: Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, Cosine Similarity.
-
-ETL/Data Pipeline: Apache Airflow
-
-Cloud Integration: AWS S3, Boto3
-
-Additional Libraries: BeautifulSoup, Requests, KMeans.
+- Machine Learning: Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, Cosine Similarity.
+- ETL/Data Pipeline: Apache Airflow
+- Cloud Integration: AWS S3, Boto3
+- Additional Libraries: BeautifulSoup, Requests, KMeans.
 
 ## 1. Web Scraping and Data Collection
 
