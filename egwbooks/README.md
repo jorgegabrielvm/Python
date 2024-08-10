@@ -1,4 +1,31 @@
-Full Recap of My EGW Books Project
+# Full Recap of My EGW Books Project
+
+## Introduction
+
+This project showcases a comprehensive approach to building an end to end "Full Stack Data Science" aplication. I successfully integrated web scraping, database management, web development, Docker, data analysis, machine learning, business insights and ETL processes into a single complex project.
+
+The notebooks further demonstrate my ability to extract actionable insights from data and develop predictive models to guide business decisions. This project not only highlights my technical skills but also my ability to solve real-world problems using a combination of technologies.
+
+- Technologies Used:
+
+Web Development: Flask, HTML/CSS, JavaScript
+
+Containerization: Docker, Docker Compose
+
+Database: SQLite, SQLAlchemy
+
+Data Analysis: Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+Data Science: Scikit-Learn, Statsmodels
+
+Machine Learning: Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, Cosine Similarity.
+
+ETL/Data Pipeline: Apache Airflow
+
+Cloud Integration: AWS S3, Boto3
+
+Additional Libraries: BeautifulSoup, Requests, KMeans.
+
 ## 1. Web Scraping and Data Collection
 
 I started the project by scraping data from [egw official website](https://m.egwwritings.org/es) to gather information about Ellen G. White (EGW) books. I used Python’s BeautifulSoup and Requests libraries to extract data such as book titles, descriptions, prices, and more.
@@ -76,9 +103,13 @@ To further enhance the insights, I delved into data science and machine learning
 - Model Development: I developed and trained five different models to predict revenue from marketing campaigns:
 
 Linear Regression
+
 Decision Tree Regressor
+
 Random Forest Regressor
+
 Gradient Boosting Regressor
+
 Support Vector Regressor
 
 - Model Evaluation: After evaluating all models, the Linear Regression model provided the most accurate predictions. The model predicted that an investment of $299 would generate a revenue of $194.58, indicating a potential loss.
@@ -87,20 +118,3 @@ Support Vector Regressor
 
 ### Technologies: Jupyter Notebook, Pandas, Scikit-Learn, Statsmodels
 
-## Final Thoughts
-
-This project showcases a comprehensive approach to building an end to end "Full Stack Data Science" aplication. I successfully integrated web scraping, database management, web development, Docker, data analysis, machine learning, business insights and ETL processes into a single complex project.
-
-The notebooks further demonstrate my ability to extract actionable insights from data and develop predictive models to guide business decisions. This project not only highlights my technical skills but also my ability to solve real-world problems using a combination of technologies.
-
-- Technologies Used:
-
-Web Development: Flask, HTML/CSS, JavaScript
-Containerization: Docker, Docker Compose
-Database: SQLite, SQLAlchemy
-Data Analysis: Pandas, Matplotlib, Seaborn, Jupyter Notebook
-Data Science: Scikit-Learn, Statsmodels
-Machine Learning: Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, Cosine Similarity.
-ETL/Data Pipeline: Apache Airflow
-Cloud Integration (Initially Planned): AWS S3, Boto3 (Planned)
-Additional Libraries: BeautifulSoup, Requests, KMeans.
