@@ -2,11 +2,11 @@
 
 ## Introduction
 
-In this project, I developed a comprehensive web application for an Ellen G. White (EGW) bookstore.
+In this project, I built a comprehensive web application for an Ellen G. White (EGW) bookstore, showcasing my ability to integrate web development, data science, web scraping, database management, Docker, data analysis, machine learning, business insights and ETL processes into a single complex project. I began by creating a robust Flask-based web app that allowed users to browse books, place orders, and provide feedback. To support this, I developed a web scraping solution to gather data on EGW books and stored the information in an SQLite database. I used Docker and Docker Compose for streamlined deployment and environment management.
 
-This showcases a comprehensive approach to building an end to end "Full Stack Data Science" aplication. I successfully integrated web scraping, database management, web development, Docker, data analysis, machine learning, business insights and ETL processes into a single complex project.
+For data analysis and automation, I implemented Apache Airflow to manage daily data extraction and transformation tasks. This allowed me to automate the processing of data from multiple SQLite databases, saving results into a S3 bucket for further analysis. In the data analysis phase, I explored customer purchase behavior, identifying key trends like peak purchasing times and top-selling books, which informed me for marketing strategies. I further expanded the project by incorporating machine learning models to predict the financial viability of these marketing campaigns.
 
-After project notebooks further demonstrate my ability to extract actionable insights from data and develop predictive models to guide business decisions. This project not only highlights my technical skills but also my ability to solve real-world problems using a combination of technologies.
+This project showcases a comprehensive approach to building an end to end "Full Stack Data Science" aplication and my ability to integrate various technologies methodologies to create a data-driven solution with real-world applications.
 
 ## Technologies Used:
 
