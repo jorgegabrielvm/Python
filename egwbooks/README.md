@@ -15,7 +15,7 @@ This project showcases a comprehensive approach to building an end to end "Full 
 - Database: SQLite, SQLAlchemy
 - Data Analysis: Pandas, Matplotlib, Seaborn, Jupyter Notebook
 - Data Science: Scikit-Learn, Statsmodels
-- Data Engineer ETL/Data Pipeline: Apache Airflow
+- Data Engineering ETL/Data Pipeline: Apache Airflow
 - Machine Learning: Linear Regression, Decision Tree, Random Forest, Gradient Boosting, SVR, Cosine Similarity.
 - Cloud Integration: AWS S3, Boto3
 - Additional Libraries: BeautifulSoup, Requests, KMeans.
