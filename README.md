@@ -1,6 +1,6 @@
 # "Full Stack Data Science"
 - ### [EGWBooks](https://github.com/jorgegabrielvm/Python/tree/main/egwbooks)
-  Cloud Engineering | Machine Learning Engineering | Data Science | Data Analysis
+  Cloud Engineering | Machine Learning Engineering | Data Science | Data Engineer | Data Analysis
 
 # Cloud Engineering
 - ### [Kafka-Pray](https://github.com/jorgegabrielvm/Python/tree/main/Kafka-pray)
