@@ -10,6 +10,5 @@ Prompt Engineering AI Chat bot | Ask any question and it will answer you as an 7
 
 • Deep learning
 
-Host: [SDA_GPT](http://16.171.42.92/)
 
 ## Jesus is King
